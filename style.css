@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    font-family: "Karla";
+}
+
+nav > h3 {
+    margin: 0;
+}
+
+#blog-list {
+    font-family: "Karla";
+    padding: 28px 5px 5px;
+}
